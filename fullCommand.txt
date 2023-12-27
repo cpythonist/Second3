@@ -1,0 +1,1 @@
+python -m nuitka --standalone --follow-imports --windows-icon-from-ico=secondWhite.ico --company-name=Infinite Inc. --product-name=Second --file-version=3.0 --product-version=3.0 --file-description=Second --copyright=Apache-2.0 second.py
