@@ -12,4 +12,4 @@ Written in CPython 3.11.6, compiled to executable using Nuitka 1.8.6, compressed
 Written by [CPythonist](http://cpythonist.github.io) from Infinite, Inc.
 Special thanks to [Stack Overflow](http://stackoverflow.com) for the help provided!
 
-Installer executables and compressed files are available in the [Releases](https://link) tab, or it can be compiled by the users themselves by running Nuitka 1.8.6 with Python 3.11.6.
+Installer executables and compressed files are available in the [Releases](https://github.com/cpythonist/Second3/releases/tag/v3.0) tab, or it can be compiled by the users themselves by running Nuitka 1.8.6 with Python 3.11.6.
